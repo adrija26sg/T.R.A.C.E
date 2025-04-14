@@ -1,0 +1,1 @@
+# Model for storing real-time soldier data

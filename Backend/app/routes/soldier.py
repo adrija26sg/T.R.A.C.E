@@ -1,0 +1,1 @@
+#endpoints for soldier data
