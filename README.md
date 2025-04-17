@@ -1,4 +1,4 @@
-# T.R.A.C.E - Real-time Analytics and Control Environment
+# T.R.A.C.E - Real-time Tracking In 3D
 
 ## 🚀 Project Overview
 
